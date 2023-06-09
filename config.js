@@ -54,7 +54,7 @@ global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada 
 
 /*============== NOMOR ==============*/
 global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
+global.nomorown = '94726013156' //Nomor Owner
 global.namebot = 'Ikratos-MD-v1' //Nama Bot
 global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
 
@@ -65,8 +65,8 @@ global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.o
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //don't change this name and number
-  ['19293514545', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', false] //Replace your name and number here
+  ['94725013156', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //don't change this name and number
+  ['94726013156', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', false] //Replace your name and number here
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = ['923470027813',''] //Don't replace this,If you want to add someone add any dev
